@@ -29,4 +29,4 @@ def first_challenge
   ]
 end
 
-epic_tragedy = [{}, {}]
+epic_tragedy = [{:montague}, {:capulet}]
